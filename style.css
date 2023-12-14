@@ -194,13 +194,13 @@
   .arrows .prev {
     position: absolute;
     top: 50%;
-    left: 100px;
+    left: -100px;
   }
   
   .arrows .next {
     position: absolute;
     top: 50%;
-    right: 100px;
+   
   }
   
   .arrows button {
